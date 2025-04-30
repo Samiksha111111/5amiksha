@@ -1,2 +1,66 @@
-# 5amiksha
-👋 Hi there! I'm a Python &amp; Django Developer I'm a passionate and detail-oriented Python developer with a focus on building clean, scalable, and efficient web applications using Django. I enjoy turning ideas into real-world solutions through well-structured code and continuous learning.
+<h2 align="left">Hi 👋! My name is Samiksha and  I'm a Python & Django Developer,, from Nepal</h2>
+
+###
+
+<div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Samiksha111111&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samiksha111111&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" /> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+### 🚀 Featured Projects
+
+- 🧾 [Expense Tracker](https://github.com/Samiksha111111/expense-tracker)  
+  Django app to track and visualize daily expenses with ARIMA-based forecasting.
+
+- 🍿 [Movie Recommender](https://github.com/Samiksha111111/movie-recommender)  
+  Collaborative filtering-based movie recommendation system with matrix factorization.
+
+- 🌐 [Portfolio Website](https://github.com/Samiksha111111/portfolio)  
+  Interactive portfolio built with Django, Tailwind CSS, and JavaScript.
+
+---
+
+
+---
+
+
+<p align="left">
+  <a href="mailto:your-mgrsam778@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/
+samiksha-magar-51335b26a
+"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_samikshamgr_?igsh=MWZsc2k1ZzJma2piMQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+###
+
+<br clear="both">
+
+
+
+###

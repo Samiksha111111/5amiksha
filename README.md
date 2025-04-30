@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Samiksha and  I'm a Python & Django Developer,, from Nepal</h2>
+<h2 align="left">Hi 👋! My name is Samiksha and  I'm a Python & Django Developer,from Nepal</h2>
 
 ###
 
